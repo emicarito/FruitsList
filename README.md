@@ -1,2 +1,0 @@
-# FruitsList
-Created with CodeSandbox
